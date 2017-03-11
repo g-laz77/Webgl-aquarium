@@ -1,0 +1,10 @@
+Welcome to my fish aquarium.
+the controls are:
+w - rotate fish along y clockwise
+s - rotate fish along y anti-clockwise
+a - rotate fish along z clockwise
+d - rotate fish along z anti-clockwise
+q - rotate fish along x clockwise
+e - rotate fish along x anti-clockswise
+
+It's still incomplete. Need to add fish eye view, complete the movement of the fish in hte aquarium.
